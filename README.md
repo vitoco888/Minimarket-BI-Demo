@@ -75,22 +75,6 @@ Seguimiento de gastos, ingresos, egresos y control de diferencias de caja.
 
 ---
 
-## 4. Visualización desde celular
-
-Accede a la información de tu negocio desde cualquier lugar.
-
-👉 **[VER VIDEO]**
-
----
-
-## 5. Actualización de información
-
-La información puede actualizarse periódicamente para mantener una visión reciente del negocio.
-
-👉 **[VER VIDEO]**
-
----
-
 # 📱 ¿Te interesa una solución para tu negocio?
 
 No necesitas necesariamente cambiar la forma en que trabajas.
