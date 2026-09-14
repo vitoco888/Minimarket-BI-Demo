@@ -2,89 +2,197 @@
 
 ## Controla tu negocio desde cualquier lugar
 
-Solución de Business Intelligence para minimarkets y pequeños comercios que permite visualizar de manera simple:
+Una solución de **Business Intelligence para minimarkets y pequeños comercios**, diseñada para transformar la información de tu negocio en una herramienta simple de gestión.
 
-- Ventas
-- Margen
-- Inventario
-- Compras
-- Gastos
-- Caja
-- Productos más vendidos
-- Productos con bajo stock
+Podrás visualizar de forma clara información relacionada con:
+
+- 💰 Ventas y rentabilidad
+- 📦 Inventario y stock
+- 🛒 Compras y proveedores
+- 💸 Gastos
+- 💵 Caja
+- 📈 Evolución del negocio
+
+La información puede ser consultada desde un computador o dispositivo móvil.
 
 ---
 
-## 💡 Una solución a la medida de tu negocio
+# 💡 Una solución a la medida de tu negocio
 
 Cada negocio funciona de manera diferente.
 
-Primero analizamos cómo gestionas actualmente tus ventas, compras, stock, gastos y caja.
+Por eso, antes de implementar la solución, revisamos cómo administras actualmente tus:
 
-Luego diseñamos una solución adaptada a la realidad de tu negocio, utilizando la información que ya tienes disponible.
+- Ventas
+- Compras
+- Productos
+- Inventario
+- Gastos
+- Caja
 
----
+También analizamos qué herramientas utilizas actualmente, por ejemplo:
 
-## 📊 ¿Qué podrás visualizar?
+- Sistema de ventas o punto de venta
+- Excel
+- Archivos CSV
+- Planillas
+- Sistemas administrativos
+- Otras fuentes de información
 
-### Ventas y rentabilidad
-Conoce cuánto vendes y cuánto margen está generando tu negocio.
+A partir de este análisis diseñamos un **panel personalizado**, adaptado a la realidad y necesidades de tu negocio.
 
-### Inventario
-Controla tu stock e identifica productos con bajo inventario.
+> **No necesitas necesariamente cambiar la forma en que trabajas.**
 
-### Productos
-Descubre cuáles son los productos más vendidos y cuáles generan mayor rentabilidad.
-
-### Compras y proveedores
-Analiza tus compras y el comportamiento de tus proveedores.
-
-### Gastos
-Visualiza en qué se está utilizando el dinero del negocio.
-
-### Caja
-Controla diferencias entre el efectivo esperado y el efectivo registrado.
+La idea es aprovechar la información que ya tienes y transformarla en datos útiles para tomar mejores decisiones.
 
 ---
 
-# 🎥 Mira cómo funciona
+# 📊 ¿Qué podrás visualizar?
 
-A continuación puedes revisar algunas demostraciones del sistema.
+## 💰 Ventas y rentabilidad
 
-## 1. Resumen Ejecutivo
+Conoce cuánto está vendiendo tu negocio y analiza sus principales resultados.
 
-Visualización general de ventas, margen, inventario y principales indicadores del negocio.
+Podrás identificar:
 
-👉 **[▶ VER VIDEO](https://drive.google.com/file/d/19dV1rkOud9cX7o521tABHnqdcvBCuh17/view?usp=drive_link)**
-
----
-
-## 2. Inventario y Abastecimiento
-
-Control de stock, bajo inventario, compras y proveedores.
-
-👉 **[▶ VER VIDEO](https://drive.google.com/file/d/1fNswBi7o45Rq0clttc2b5_KMnPZwjqDP/view?usp=drive_link)**
+- Ventas totales
+- Margen
+- Rentabilidad
+- Ticket promedio
+- Evolución de ventas
+- Productos más vendidos
 
 ---
 
-## 3. Gastos y Caja
+## 📦 Inventario y abastecimiento
 
-Seguimiento de gastos, ingresos, egresos y control de diferencias de caja.
+Obtén una visión clara del inventario de tu negocio.
 
-👉 **[▶ VER VIDEO](PEGA_AQUI_EL_ENLACE_DEL_VIDEO_3)**
+Podrás controlar:
+
+- Stock actual
+- Productos con bajo stock
+- Inventario valorizado
+- Rotación de productos
+- Compras
+- Proveedores
+- Abastecimiento
+
+---
+
+## 💸 Gastos y caja
+
+Analiza dónde se está utilizando el dinero del negocio y controla los movimientos de caja.
+
+Podrás revisar:
+
+- Gastos por tipo
+- Ingresos
+- Egresos
+- Control de caja
+- Diferencias de caja
+- Resultado del negocio
+
+---
+
+# 🎥 Conoce la solución
+
+A continuación puedes ver tres ejemplos de cómo se presenta la información.
+
+---
+
+## 1. 📈 Resumen Ejecutivo
+
+Obtén una visión general del estado de tu negocio mediante sus principales indicadores.
+
+Podrás revisar ventas, margen, resultados y otros indicadores de gestión en un solo lugar.
+
+👉 **[▶ VER VIDEO – RESUMEN EJECUTIVO](https://drive.google.com/file/d/19dV1rkOud9cX7o521tABHnqdcvBCuh17/view?usp=drive_link)**
+
+---
+
+## 2. 📦 Inventario y Abastecimiento
+
+Visualiza información relacionada con stock, inventario, compras, productos y proveedores.
+
+Esto permite identificar rápidamente productos con bajo stock y apoyar las decisiones de reposición.
+
+👉 **[▶ VER VIDEO – INVENTARIO Y ABASTECIMIENTO](https://drive.google.com/file/d/1fNswBi7o45Rq0clttc2b5_KMnPZwjqDP/view?usp=drive_link)**
+
+---
+
+## 3. 💰 Gastos y Caja
+
+Analiza los gastos del negocio, ingresos, egresos y movimientos de caja.
+
+Esta información facilita el control financiero y permite detectar diferencias o situaciones que requieren atención.
+
+👉 **[▶ VER VIDEO – GASTOS Y CAJA](PEGA_AQUI_EL_ENLACE_DEL_VIDEO_3)**
+
+---
+
+# 🔄 ¿Cómo funciona el servicio?
+
+El proceso comienza entendiendo cómo funciona actualmente tu negocio.
+
+### 1️⃣ Conocemos tu forma de trabajar
+
+Revisamos cómo registras actualmente:
+
+**Ventas → Compras → Inventario → Gastos → Caja**
+
+### 2️⃣ Analizamos la información disponible
+
+Evaluamos qué datos pueden utilizarse y desde qué sistemas o archivos podemos obtenerlos.
+
+### 3️⃣ Diseñamos tu solución
+
+Construimos los indicadores y paneles que sean realmente útiles para tu negocio.
+
+### 4️⃣ Implementamos la solución
+
+Organizamos la información y dejamos disponible una herramienta de consulta simple y visual.
+
+### 5️⃣ Seguimiento y mejoras
+
+La solución puede continuar evolucionando de acuerdo con nuevas necesidades de tu negocio.
+
+---
+
+# 🎯 El objetivo
+
+No se trata solamente de mostrar gráficos.
+
+El objetivo es ayudarte a responder preguntas como:
+
+> **¿Cuánto estoy vendiendo?**
+
+> **¿Cuánto estoy ganando?**
+
+> **¿Qué productos se venden más?**
+
+> **¿Qué productos necesito reponer?**
+
+> **¿Cuánto estoy gastando?**
+
+> **¿Cómo está funcionando mi negocio?**
 
 ---
 
 # 📱 ¿Te interesa una solución para tu negocio?
 
-No necesitas necesariamente cambiar la forma en que trabajas.
+Podemos revisar juntos cómo administras actualmente la información de tu minimarket o comercio y evaluar una solución adaptada a tus necesidades.
 
-Primero revisamos cómo administras actualmente tu información y evaluamos la mejor forma de construir una solución adaptada a tu realidad.
+## 👤 Víctor Miranda
 
-## Víctor Miranda
+**Business Intelligence para PYMEs**
 
-Business Intelligence para PYMEs
+📱 **WhatsApp:** +56 9 8891 5080
 
-**WhatsApp:** +56 9 8891 5080
+📷 **Instagram:** @victormiranda.bi
 
-**Instagram:** @victormiranda.bi
+---
+
+### 🛒 Minimarket BI
+
+**Transformamos la información de tu negocio en mejores decisiones.**
