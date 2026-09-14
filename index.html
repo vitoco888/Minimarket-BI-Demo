@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Minimarket BI | Víctor Miranda</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f7fb;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #0f2747;
+      color: white;
+      text-align: center;
+      padding: 55px 20px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 42px;
+    }
+
+    header p {
+      font-size: 21px;
+      margin: 10px 0 0;
+    }
+
+    .subtitulo {
+      margin-top: 15px;
+      font-size: 16px;
+      color: #dbeafe;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    section {
+      background: white;
+      margin: 30px 0;
+      padding: 35px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    h2 {
+      color: #0f2747;
+      margin-top: 0;
+    }
+
+    .beneficios {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px,1fr));
+      gap: 15px;
+      margin-top: 25px;
+    }
+
+    .beneficio {
+      background: #f1f5f9;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .videos {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
+      gap: 20px;
+    }
+
+    .video {
+      border: 1px solid #dbe3ec;
+      border-radius: 10px;
+      padding: 25px;
+      text-align: center;
+    }
+
+    .video h3 {
+      color: #0f2747;
+    }
+
+    .boton {
+      display: inline-block;
+      background: #0f2747;
+      color: white;
+      padding: 12px 22px;
+      margin-top: 10px;
+      text-decoration: none;
+      border-radius: 7px;
+      font-weight: bold;
+    }
+
+    .boton:hover {
+      background: #1d4ed8;
+    }
+
+    .whatsapp {
+      background: #16883e;
+    }
+
+    .contacto {
+      text-align: center;
+    }
+
+    .foto {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+
+    .destacado {
+      background: #eaf2ff;
+      border-left: 5px solid #0f2747;
+    }
+
+    footer {
+      background: #0f2747;
+      color: white;
+      text-align: center;
+      padding: 25px;
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 32px;
+      }
+
+      header p {
+        font-size: 18px;
+      }
+
+      section {
+        padding: 25px 20px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>🛒 Minimarket BI</h1>
+
+  <p>Controla tu negocio desde cualquier lugar</p>
+
+  <div class="subtitulo">
+    Ventas · Margen · Inventario · Compras · Gastos · Caja
+  </div>
+</header>
+
+
+<div class="container">
+
+  <section>
+
+    <h2>¿Sabes realmente cuánto gana tu negocio?</h2>
+
+    <p>
+      Minimarket BI transforma la información de tu comercio en paneles
+      simples y visuales que permiten entender qué está ocurriendo en tu
+      negocio y tomar mejores decisiones.
+    </p>
+
+    <div class="beneficios">
+
+      <div class="beneficio">
+        💰 Ventas y rentabilidad
+      </div>
+
+      <div class="beneficio">
+        📦 Inventario y stock
+      </div>
+
+      <div class="beneficio">
+        🛒 Compras y proveedores
+      </div>
+
+      <div class="beneficio">
+        💸 Gastos
+      </div>
+
+      <div class="beneficio">
+        💵 Control de caja
+      </div>
+
+      <div class="beneficio">
+        📈 Evolución del negocio
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section class="destacado">
+
+    <h2>💡 Una solución a la medida de tu negocio</h2>
+
+    <p>
+      Cada comercio funciona de manera diferente.
+    </p>
+
+    <p>
+      Primero analizamos cómo administras actualmente tus
+      <strong>ventas, compras, productos, inventario, gastos y caja</strong>.
+    </p>
+
+    <p>
+      También revisamos qué herramientas utilizas actualmente:
+      sistemas de venta, Excel, archivos CSV, planillas u otras fuentes.
+    </p>
+
+    <p>
+      Luego diseñamos un panel adaptado a la realidad y necesidades
+      de tu negocio.
+    </p>
+
+    <p>
+      <strong>
+        No necesitas necesariamente cambiar la forma en que trabajas.
+      </strong>
+    </p>
+
+  </section>
+
+
+  <section>
+
+    <h2>🎥 Conoce la solución</h2>
+
+    <p>
+      Revisa estas demostraciones para conocer algunos de los análisis
+      que puedes tener disponibles.
+    </p>
+
+    <div class="videos">
+
+
+      <div class="video">
+
+        <h3>📈 Resumen Ejecutivo</h3>
+
+        <p>
+          Visualiza ventas, margen y los principales indicadores
+          de tu negocio.
+        </p>
+
+        <a class="boton"
+           href="https://drive.google.com/file/d/19dV1rkOud9cX7o521tABHnqdcvBCuh17/view?usp=drive_link"
+           target="_blank">
+
+          ▶ Ver video
+
+        </a>
+
+      </div>
+
+
+      <div class="video">
+
+        <h3>📦 Inventario y Abastecimiento</h3>
+
+        <p>
+          Controla stock, productos con bajo inventario,
+          compras y proveedores.
+        </p>
+
+        <a class="boton"
+           href="https://drive.google.com/file/d/1fNswBi7o45Rq0clttc2b5_KMnPZwjqDP/view?usp=drive_link"
+           target="_blank">
+
+          ▶ Ver video
+
+        </a>
+
+      </div>
+
+
+      <div class="video">
+
+        <h3>💰 Gastos y Caja</h3>
+
+        <p>
+          Analiza gastos, ingresos, egresos
+          y movimientos de caja.
+        </p>
+
+        <a class="boton"
+           href="https://drive.google.com/file/d/1z3HiN6da1qrovAwBbndvCTLH0WNfZig8/view?usp=drive_link"
+           target="_blank">
+
+          ▶ Ver video
+
+        </a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section>
+
+    <h2>🎯 El objetivo</h2>
+
+    <p>
+      La idea no es solamente mostrar gráficos.
+    </p>
+
+    <p>
+      La solución busca ayudarte a responder preguntas importantes:
+    </p>
+
+    <div class="beneficios">
+
+      <div class="beneficio">
+        ¿Cuánto estoy vendiendo?
+      </div>
+
+      <div class="beneficio">
+        ¿Cuánto estoy ganando?
+      </div>
+
+      <div class="beneficio">
+        ¿Qué productos se venden más?
+      </div>
+
+      <div class="beneficio">
+        ¿Qué productos necesito reponer?
+      </div>
+
+      <div class="beneficio">
+        ¿Cuánto estoy gastando?
+      </div>
+
+      <div class="beneficio">
+        ¿Cómo está funcionando mi negocio?
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <section class="contacto">
+
+    <img
+      src="https://github.com/vitoco888.png"
+      alt="Víctor Miranda"
+      class="foto"
+    >
+
+    <h2>Víctor Miranda</h2>
+
+    <p>
+      <strong>Business Intelligence para PYMEs</strong>
+    </p>
+
+    <p>
+      ¿Quieres evaluar una solución para tu negocio?
+    </p>
+
+    <a
+      class="boton whatsapp"
+      href="https://wa.me/56988915080"
+      target="_blank">
+
+      📱 Contactar por WhatsApp
+
+    </a>
+
+    <br><br>
+
+    <p>
+      Instagram:
+      <strong>@victormiranda.bi</strong>
+    </p>
+
+  </section>
+
+</div>
+
+
+<footer>
+
+  <strong>MINIMARKET BI</strong>
+
+  <br>
+
+  Transformamos la información de tu negocio en mejores decisiones.
+
+</footer>
+
+
+</body>
+</html>
