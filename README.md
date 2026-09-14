@@ -185,6 +185,8 @@ Podemos revisar juntos cómo administras actualmente la información de tu minim
 
 ## 👤 Víctor Miranda
 
+<img src="https://github.com/vitoco888.png" width="180" alt="Víctor Miranda">
+
 **Business Intelligence para PYMEs**
 
 📱 **WhatsApp:** +56 9 8891 5080
