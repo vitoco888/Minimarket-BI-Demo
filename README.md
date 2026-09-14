@@ -127,7 +127,7 @@ Analiza los gastos del negocio, ingresos, egresos y movimientos de caja.
 
 Esta información facilita el control financiero y permite detectar diferencias o situaciones que requieren atención.
 
-👉 **[▶ VER VIDEO – GASTOS Y CAJA](PEGA_AQUI_EL_ENLACE_DEL_VIDEO_3)**
+👉 **[▶ VER VIDEO – GASTOS Y CAJA](https://drive.google.com/file/d/1z3HiN6da1qrovAwBbndvCTLH0WNfZig8/view?usp=drive_link)**
 
 ---
 
