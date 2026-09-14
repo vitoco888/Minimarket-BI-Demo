@@ -63,15 +63,15 @@ Visualización general de ventas, margen, inventario y principales indicadores d
 
 Control de stock, bajo inventario, compras y proveedores.
 
-👉 **[VER VIDEO]**
+👉 **[▶ VER VIDEO](https://drive.google.com/file/d/1fNswBi7o45Rq0clttc2b5_KMnPZwjqDP/view?usp=drive_link)**
 
 ---
 
 ## 3. Gastos y Caja
 
-Seguimiento de gastos y control de diferencias de caja.
+Seguimiento de gastos, ingresos, egresos y control de diferencias de caja.
 
-👉 **[VER VIDEO]**
+👉 **[▶ VER VIDEO](PEGA_AQUI_EL_ENLACE_DEL_VIDEO_3)**
 
 ---
 
