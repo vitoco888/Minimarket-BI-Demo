@@ -55,7 +55,7 @@ A continuación puedes revisar algunas demostraciones del sistema.
 
 Visualización general de ventas, margen, inventario y principales indicadores del negocio.
 
-👉 **[VER VIDEO]**
+👉 **[▶ VER VIDEO](https://drive.google.com/file/d/19dV1rkOud9cX7o521tABHnqdcvBCuh17/view?usp=drive_link)**
 
 ---
 
